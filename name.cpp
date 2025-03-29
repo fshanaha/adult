@@ -13,5 +13,6 @@ int main(){
 		cout << '\n';
 		cin >> name;
 	}
+	
     return 0;
 }
