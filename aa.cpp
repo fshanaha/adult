@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     int num = 0;
 	string name;
-
+	string bbb = "bb";
 	cin >> name;
 	while(name != "0"){
 		for(short i = 0; i <= 100; i++) {
